@@ -3,6 +3,7 @@
 
 ## How To Play :
 1-Choose one person to be the "host" who invents the puzzle.
+
 2-If you are the host, choose a secret word.
 
 3-Draw a blank line for each letter in the word.
